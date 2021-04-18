@@ -1,1 +1,1 @@
-# python_projects
+自学python时做过的项目：机器人大战；爬取豆瓣图书。
